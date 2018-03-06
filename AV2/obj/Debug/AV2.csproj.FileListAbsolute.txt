@@ -1,0 +1,9 @@
+c:\users\nndb\documents\visual studio 2015\Projects\AV2\AV2\bin\Debug\AV2.exe.config
+c:\users\nndb\documents\visual studio 2015\Projects\AV2\AV2\bin\Debug\AV2.exe
+c:\users\nndb\documents\visual studio 2015\Projects\AV2\AV2\bin\Debug\AV2.pdb
+c:\users\nndb\documents\visual studio 2015\Projects\AV2\AV2\obj\Debug\AV2.csprojResolveAssemblyReference.cache
+c:\users\nndb\documents\visual studio 2015\Projects\AV2\AV2\obj\Debug\AV2.Form1.resources
+c:\users\nndb\documents\visual studio 2015\Projects\AV2\AV2\obj\Debug\AV2.Properties.Resources.resources
+c:\users\nndb\documents\visual studio 2015\Projects\AV2\AV2\obj\Debug\AV2.csproj.GenerateResource.Cache
+c:\users\nndb\documents\visual studio 2015\Projects\AV2\AV2\obj\Debug\AV2.exe
+c:\users\nndb\documents\visual studio 2015\Projects\AV2\AV2\obj\Debug\AV2.pdb
