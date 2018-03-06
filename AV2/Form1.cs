@@ -19,7 +19,22 @@ namespace AV2
 
         private void label3_Click(object sender, EventArgs e)
         {
-            label3.Text = " important";
+            label3.Text = "important";
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+            label5.Text = "succeed";
+        }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+            label7.Text = "throughout";
+        }
+
+        private void label9_Click(object sender, EventArgs e)
+        {
+            label9.Text = "opens";
         }
     }
 }
