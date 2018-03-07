@@ -21,5 +21,11 @@ namespace AV2
         {
             this.Close();
         }
+
+        private void true1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Congratulation!");
+
+        }
     }
 }
