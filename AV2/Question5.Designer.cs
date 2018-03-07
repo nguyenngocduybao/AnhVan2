@@ -42,60 +42,64 @@
             // 
             // false3
             // 
+            this.false3.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.false3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.false3.Location = new System.Drawing.Point(343, 292);
-            this.false3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.false3.ForeColor = System.Drawing.Color.Blue;
+            this.false3.Location = new System.Drawing.Point(608, 370);
             this.false3.Name = "false3";
-            this.false3.Size = new System.Drawing.Size(112, 32);
+            this.false3.Size = new System.Drawing.Size(168, 49);
             this.false3.TabIndex = 11;
             this.false3.Text = "D. runed";
-            this.false3.UseVisualStyleBackColor = true;
+            this.false3.UseVisualStyleBackColor = false;
             // 
             // false2
             // 
+            this.false2.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.false2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.false2.Location = new System.Drawing.Point(47, 292);
-            this.false2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.false2.ForeColor = System.Drawing.Color.Blue;
+            this.false2.Location = new System.Drawing.Point(333, 370);
             this.false2.Name = "false2";
-            this.false2.Size = new System.Drawing.Size(109, 32);
+            this.false2.Size = new System.Drawing.Size(164, 49);
             this.false2.TabIndex = 10;
             this.false2.Text = "C. ran\t";
-            this.false2.UseVisualStyleBackColor = true;
+            this.false2.UseVisualStyleBackColor = false;
             // 
             // false1
             // 
+            this.false1.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.false1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.false1.Location = new System.Drawing.Point(343, 227);
-            this.false1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.false1.ForeColor = System.Drawing.Color.Blue;
+            this.false1.Location = new System.Drawing.Point(608, 298);
             this.false1.Name = "false1";
-            this.false1.Size = new System.Drawing.Size(112, 33);
+            this.false1.Size = new System.Drawing.Size(168, 51);
             this.false1.TabIndex = 9;
             this.false1.Text = "B. runned";
-            this.false1.UseVisualStyleBackColor = true;
+            this.false1.UseVisualStyleBackColor = false;
             // 
             // true1
             // 
+            this.true1.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.true1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.true1.Location = new System.Drawing.Point(47, 227);
-            this.true1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.true1.ForeColor = System.Drawing.Color.Blue;
+            this.true1.Location = new System.Drawing.Point(333, 298);
             this.true1.Name = "true1";
-            this.true1.Size = new System.Drawing.Size(109, 33);
+            this.true1.Size = new System.Drawing.Size(164, 51);
             this.true1.TabIndex = 8;
             this.true1.Text = "A. run";
-            this.true1.UseVisualStyleBackColor = true;
+            this.true1.UseVisualStyleBackColor = false;
             this.true1.Click += new System.EventHandler(this.true1_Click);
             // 
             // groupBox1
             // 
+            this.groupBox1.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.groupBox1.Controls.Add(this.label3);
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox1.Location = new System.Drawing.Point(47, 64);
-            this.groupBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox1.ForeColor = System.Drawing.Color.Blue;
+            this.groupBox1.Location = new System.Drawing.Point(70, 98);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.groupBox1.Size = new System.Drawing.Size(564, 109);
+            this.groupBox1.Size = new System.Drawing.Size(846, 168);
             this.groupBox1.TabIndex = 7;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Question 5";
@@ -103,56 +107,57 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(4, 74);
-            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label3.Location = new System.Drawing.Point(6, 114);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(342, 20);
+            this.label3.Size = new System.Drawing.Size(514, 29);
             this.label3.TabIndex = 2;
             this.label3.Text = "enhancing the value of education in rural areas.";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(4, 49);
-            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label2.Location = new System.Drawing.Point(6, 75);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(506, 20);
+            this.label2.Size = new System.Drawing.Size(765, 29);
             this.label2.TabIndex = 1;
             this.label2.Text = "Many awareness programmes has been ...............by the government in ";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(4, 20);
-            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label1.ForeColor = System.Drawing.Color.Red;
+            this.label1.Location = new System.Drawing.Point(6, 31);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(241, 20);
+            this.label1.Size = new System.Drawing.Size(369, 29);
             this.label1.TabIndex = 0;
             this.label1.Text = "Fill a suitable word into the blank.";
             // 
             // btn_Return
             // 
-            this.btn_Return.Location = new System.Drawing.Point(546, 337);
-            this.btn_Return.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btn_Return.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.btn_Return.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_Return.ForeColor = System.Drawing.Color.Blue;
+            this.btn_Return.Location = new System.Drawing.Point(806, 455);
             this.btn_Return.Name = "btn_Return";
-            this.btn_Return.Size = new System.Drawing.Size(73, 26);
+            this.btn_Return.Size = new System.Drawing.Size(110, 40);
             this.btn_Return.TabIndex = 6;
             this.btn_Return.Text = "Return";
-            this.btn_Return.UseVisualStyleBackColor = true;
+            this.btn_Return.UseVisualStyleBackColor = false;
             this.btn_Return.Click += new System.EventHandler(this.btn_Return_Click);
             // 
             // Question5
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::AV2.Properties.Resources.free_download_2012_graduation_powerpoint_template_2_free_download_2012_l_40a0fbd2e168b941;
-            this.ClientSize = new System.Drawing.Size(664, 374);
+            this.ClientSize = new System.Drawing.Size(996, 575);
             this.Controls.Add(this.false3);
             this.Controls.Add(this.false2);
             this.Controls.Add(this.false1);
             this.Controls.Add(this.true1);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.btn_Return);
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "Question5";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Question5";

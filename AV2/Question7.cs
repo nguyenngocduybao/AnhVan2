@@ -17,14 +17,14 @@ namespace AV2
             InitializeComponent();
         }
 
-        private void btn_Return_Click(object sender, EventArgs e)
-        {
-            this.Close();
-        }
-
         private void true1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Congratulation!");
+        }
+
+        private void btn_Return_Click_1(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }
