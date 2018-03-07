@@ -26,5 +26,10 @@ namespace AV2
         {
             MessageBox.Show("Congratulation!");
         }
+
+        private void Question9_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

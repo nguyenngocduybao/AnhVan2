@@ -26,7 +26,5 @@ namespace AV2
         {
             MessageBox.Show("Congratulation!");
         }
-
-
     }
 }
