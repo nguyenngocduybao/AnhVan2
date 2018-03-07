@@ -35,9 +35,8 @@
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.btn_Return = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // false3
@@ -111,14 +110,15 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "Fill a suitable word into the blank.";
             // 
-            // pictureBox1
+            // btn_Return
             // 
-            this.pictureBox1.InitialImage = global::AV2.Properties.Resources._28741701_1029059997232831_1121099856_n1;
-            this.pictureBox1.Location = new System.Drawing.Point(744, 474);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(138, 47);
-            this.pictureBox1.TabIndex = 12;
-            this.pictureBox1.TabStop = false;
+            this.btn_Return.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_Return.Location = new System.Drawing.Point(829, 493);
+            this.btn_Return.Name = "btn_Return";
+            this.btn_Return.Size = new System.Drawing.Size(107, 38);
+            this.btn_Return.TabIndex = 12;
+            this.btn_Return.Text = "Return";
+            this.btn_Return.UseVisualStyleBackColor = true;
             // 
             // Question7
             // 
@@ -126,7 +126,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::AV2.Properties.Resources.free_download_2012_graduation_powerpoint_template_2_free_download_2012_l_40a0fbd2e168b941;
             this.ClientSize = new System.Drawing.Size(996, 575);
-            this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.btn_Return);
             this.Controls.Add(this.false3);
             this.Controls.Add(this.true1);
             this.Controls.Add(this.false2);
@@ -138,7 +138,6 @@
             this.Text = "Question7";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -152,6 +151,6 @@
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Button btn_Return;
     }
 }
