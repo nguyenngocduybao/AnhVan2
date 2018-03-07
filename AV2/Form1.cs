@@ -24,7 +24,7 @@ namespace AV2
 
         private void label5_Click(object sender, EventArgs e)
         {
-            label5.Text = "succeed";
+            label5.Text = "a lot";
         }
 
         private void label7_Click(object sender, EventArgs e)
@@ -44,7 +44,7 @@ namespace AV2
 
         private void label14_Click(object sender, EventArgs e)
         {
-            label14.Text = "enhancing";
+            label14.Text = "equality";
         }
 
         private void label18_Click(object sender, EventArgs e)
@@ -72,5 +72,10 @@ namespace AV2
             label29.Text = "fewer";
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Question1 dlg2 = new Question1();
+            dlg2.ShowDialog();
+        }
     }
 }

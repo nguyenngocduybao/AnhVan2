@@ -7,3 +7,4 @@ c:\users\nndb\documents\visual studio 2015\Projects\AV2\AV2\obj\Debug\AV2.csproj
 c:\users\nndb\documents\visual studio 2015\Projects\AV2\AV2\obj\Debug\AV2.exe
 c:\users\nndb\documents\visual studio 2015\Projects\AV2\AV2\obj\Debug\AV2.pdb
 C:\Users\NNDB\documents\visual studio 2015\Projects\AV2\AV2\obj\Debug\AV2.AV2.resources
+C:\Users\NNDB\documents\visual studio 2015\Projects\AV2\AV2\obj\Debug\AV2.Question1.resources
