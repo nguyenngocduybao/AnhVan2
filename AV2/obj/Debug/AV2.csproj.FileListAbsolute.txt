@@ -28,3 +28,24 @@ D:\Mine\5. Study\Projects\AnhVan2\AV2\bin\Debug\AV2.exe
 D:\Mine\5. Study\Projects\AnhVan2\AV2\bin\Debug\AV2.pdb
 D:\Mine\5. Study\Projects\AnhVan2\AV2\obj\Debug\AV2.exe
 D:\Mine\5. Study\Projects\AnhVan2\AV2\obj\Debug\AV2.pdb
+C:\Users\NNDB\Documents\GitHub\AnhVan2\AV2\bin\Debug\AV2.exe.config
+C:\Users\NNDB\Documents\GitHub\AnhVan2\AV2\bin\Debug\AV2.exe
+C:\Users\NNDB\Documents\GitHub\AnhVan2\AV2\bin\Debug\AV2.pdb
+C:\Users\NNDB\Documents\GitHub\AnhVan2\AV2\obj\Debug\AV2.csprojResolveAssemblyReference.cache
+C:\Users\NNDB\Documents\GitHub\AnhVan2\AV2\obj\Debug\AV2.AV2.resources
+C:\Users\NNDB\Documents\GitHub\AnhVan2\AV2\obj\Debug\AV2.Properties.Resources.resources
+C:\Users\NNDB\Documents\GitHub\AnhVan2\AV2\obj\Debug\AV2.Question1.resources
+C:\Users\NNDB\Documents\GitHub\AnhVan2\AV2\obj\Debug\AV2.Question10.resources
+C:\Users\NNDB\Documents\GitHub\AnhVan2\AV2\obj\Debug\AV2.Question11.resources
+C:\Users\NNDB\Documents\GitHub\AnhVan2\AV2\obj\Debug\AV2.Question2.resources
+C:\Users\NNDB\Documents\GitHub\AnhVan2\AV2\obj\Debug\AV2.Question3.resources
+C:\Users\NNDB\Documents\GitHub\AnhVan2\AV2\obj\Debug\AV2.Question4.resources
+C:\Users\NNDB\Documents\GitHub\AnhVan2\AV2\obj\Debug\AV2.Question5.resources
+C:\Users\NNDB\Documents\GitHub\AnhVan2\AV2\obj\Debug\AV2.Question6.resources
+C:\Users\NNDB\Documents\GitHub\AnhVan2\AV2\obj\Debug\AV2.Question7.resources
+C:\Users\NNDB\Documents\GitHub\AnhVan2\AV2\obj\Debug\AV2.Question8.resources
+C:\Users\NNDB\Documents\GitHub\AnhVan2\AV2\obj\Debug\AV2.Question9.resources
+C:\Users\NNDB\Documents\GitHub\AnhVan2\AV2\obj\Debug\AV2.csproj.GenerateResource.Cache
+C:\Users\NNDB\Documents\GitHub\AnhVan2\AV2\obj\Debug\AV2.exe
+C:\Users\NNDB\Documents\GitHub\AnhVan2\AV2\obj\Debug\AV2.pdb
+C:\Users\NNDB\Documents\GitHub\AnhVan2\AV2\obj\Debug\AV2.Lucky.resources
