@@ -77,5 +77,71 @@ namespace AV2
             Question1 dlg2 = new Question1();
             dlg2.ShowDialog();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Question2 dlg2 = new Question2();
+            dlg2.ShowDialog();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Question3 dlg2 = new Question3();
+            dlg2.ShowDialog();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Question4 dlg2 = new Question4();
+            dlg2.ShowDialog();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Question5 dlg2 = new Question5();
+            dlg2.ShowDialog();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            Question6 dlg2 = new Question6();
+            dlg2.ShowDialog();
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            Question7 dlg2 = new Question7();
+            dlg2.ShowDialog();
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            Lucky dlg2 = new Lucky();
+            dlg2.ShowDialog();
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            Question8 dlg2 = new Question8();
+            dlg2.ShowDialog();
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            Question9 dlg2 = new Question9();
+            dlg2.ShowDialog();
+        }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+            Question10 dlg2 = new Question10();
+            dlg2.ShowDialog();
+        }
+
+        private void button12_Click(object sender, EventArgs e)
+        {
+            Question11 dlg2 = new Question11();
+            dlg2.ShowDialog();
+        }
     }
 }
