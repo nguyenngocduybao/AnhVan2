@@ -141,6 +141,36 @@
     <EmbeddedResource Include="Question1.resx">
       <DependentUpon>Question1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Question10.resx">
+      <DependentUpon>Question10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question11.resx">
+      <DependentUpon>Question11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question2.resx">
+      <DependentUpon>Question2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question3.resx">
+      <DependentUpon>Question3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question4.resx">
+      <DependentUpon>Question4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question5.resx">
+      <DependentUpon>Question5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question6.resx">
+      <DependentUpon>Question6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question7.resx">
+      <DependentUpon>Question7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question8.resx">
+      <DependentUpon>Question8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Question9.resx">
+      <DependentUpon>Question9.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
