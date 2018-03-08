@@ -46,10 +46,11 @@
             this.false3.ForeColor = System.Drawing.Color.Blue;
             this.false3.Location = new System.Drawing.Point(592, 395);
             this.false3.Name = "false3";
-            this.false3.Size = new System.Drawing.Size(168, 49);
+            this.false3.Size = new System.Drawing.Size(187, 49);
             this.false3.TabIndex = 11;
             this.false3.Text = "D. importantly";
             this.false3.UseVisualStyleBackColor = false;
+            this.false3.Click += new System.EventHandler(this.false3_Click);
             // 
             // false2
             // 
@@ -62,15 +63,16 @@
             this.false2.TabIndex = 10;
             this.false2.Text = "C. well";
             this.false2.UseVisualStyleBackColor = false;
+            this.false2.Click += new System.EventHandler(this.false2_Click);
             // 
             // true1
             // 
             this.true1.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.true1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.true1.ForeColor = System.Drawing.Color.Blue;
-            this.true1.Location = new System.Drawing.Point(592, 299);
+            this.true1.Location = new System.Drawing.Point(592, 308);
             this.true1.Name = "true1";
-            this.true1.Size = new System.Drawing.Size(168, 51);
+            this.true1.Size = new System.Drawing.Size(187, 51);
             this.true1.TabIndex = 9;
             this.true1.Text = "B. important";
             this.true1.UseVisualStyleBackColor = false;
@@ -87,6 +89,7 @@
             this.false1.TabIndex = 8;
             this.false1.Text = "A. good";
             this.false1.UseVisualStyleBackColor = false;
+            this.false1.Click += new System.EventHandler(this.false1_Click);
             // 
             // groupBox1
             // 
@@ -139,6 +142,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::AV2.Properties.Resources.free_download_2012_graduation_powerpoint_template_2_free_download_2012_l_40a0fbd2e168b941;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(996, 575);
             this.Controls.Add(this.false3);
             this.Controls.Add(this.false2);

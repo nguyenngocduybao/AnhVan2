@@ -51,6 +51,7 @@
             this.false3.TabIndex = 11;
             this.false3.Text = "D. on";
             this.false3.UseVisualStyleBackColor = false;
+            this.false3.Click += new System.EventHandler(this.false3_Click);
             // 
             // false2
             // 
@@ -63,6 +64,7 @@
             this.false2.TabIndex = 10;
             this.false2.Text = "C. in\t";
             this.false2.UseVisualStyleBackColor = false;
+            this.false2.Click += new System.EventHandler(this.false2_Click);
             // 
             // false1
             // 
@@ -75,6 +77,7 @@
             this.false1.TabIndex = 9;
             this.false1.Text = "B. of";
             this.false1.UseVisualStyleBackColor = false;
+            this.false1.Click += new System.EventHandler(this.false1_Click);
             // 
             // true1
             // 
@@ -150,6 +153,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::AV2.Properties.Resources.free_download_2012_graduation_powerpoint_template_2_free_download_2012_l_40a0fbd2e168b941;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(996, 575);
             this.Controls.Add(this.false3);
             this.Controls.Add(this.false2);

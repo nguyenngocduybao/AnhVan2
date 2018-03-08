@@ -26,5 +26,22 @@ namespace AV2
         {
             MessageBox.Show("Congratulation!");
         }
+
+        private void false1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Your answer's wrong. \n Better luck next time!!!");
+        }
+
+        private void false2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Your answer's wrong. \n Better luck next time!!!");
+
+        }
+
+        private void false3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Your answer's wrong. \n Better luck next time!!!");
+
+        }
     }
 }
